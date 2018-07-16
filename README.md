@@ -19,4 +19,9 @@ A very small app allows you to copy links to clipboard before opening in the bro
 
 ### Screenshot
 
-![App Screenshot](Screenshot.jpeg)
+#### On Browser Selection Screen
+![App Screenshot](Browser_Screenshot.jpeg)
+
+
+#### On Share Screen
+![App Screenshot](Share_Screenshot.jpeg)
